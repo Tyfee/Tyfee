@@ -1,5 +1,6 @@
 
-Desenvolvedor apaixonado por solucionar problemas. Comecei a programar quando criança fazendo mods para Minecraft PE. Depois aprendi a fazer sites, apps para android, jogos para computador e nunca mais parei de buscar conhecimento. Hoje em dia me interessam bastante as áreas de desenvolvimento web, softwares de automação e também o desenvolvimento de sistemas embarcados. 
+
+Desenvolvedor apaixonado por solucionar problemas. Comecei a programar quando criança fazendo mods para Minecraft PE . Depois aprendi a fazer sites, apps para android, jogos para computador e nunca mais parei de buscar conhecimento. Hoje em dia me interessam bastante as áreas de desenvolvimento web, softwares de automação e também o desenvolvimento de sistemas embarcados. 
 
 ## Onde me encontrar: 
 
@@ -11,7 +12,6 @@ Spotify:  [i wanna lay in salt](https://open.spotify.com/intl-pt/artist/2DKagWur
 
 ## Geralmente Programo em:
 
-<div style="display: flex; justify-content: space-between;">
   <div>
     <table>
       <tr>
@@ -30,22 +30,9 @@ Spotify:  [i wanna lay in salt](https://open.spotify.com/intl-pt/artist/2DKagWur
   </div>
 
   <div>
-    <table>
-      <tr>
-        <td><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React"></td>
-        <td><img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte" alt="Svelte"></td>
-        <td><img src="https://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=python" alt="Tkinter"></td>
-        <td><img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" alt="FastAPI"></td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra" alt="Sinatra"></td>
-        <td><img src="https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx" alt="Nginx"></td>
-        <td><img src="https://img.shields.io/badge/-WinForms-black?style=flat-square&logo=windows" alt="WinForms"></td>
-        <td><img src="https://img.shields.io/badge/-Capacitor-black?style=flat-square&logo=capacitor" alt="Capacitor"></td>
-      </tr>
-    </table>
+
   </div>
-</div>
+
 
 
 
