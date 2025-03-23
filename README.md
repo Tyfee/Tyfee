@@ -1,6 +1,6 @@
 
 
-Desenvolvedor apaixonado por solucionar problemas. Comecei a programar quando criança fazendo mods para Minecraft PE . Depois aprendi a fazer sites, apps para android, jogos para computador e nunca mais parei de buscar conhecimento. Hoje em dia me interessam bastante as áreas de desenvolvimento web, softwares de automação e também o desenvolvimento de sistemas embarcados. 
+Desenvolvedor apaixonado por solucionar problemas. Comecei a programar quando criança fazendo mods para Minecraft PE . Depois aprendi a fazer sites, apps para android, jogos para computador e nunca mais parei de buscar conhecimento. Hoje em dia me interessam bastante as áreas de desenvolvimento web, softwares de automação e também o desenvolvimento de sistemas embarcados. Em busca de vagas de estágio para iniciar formalmente uma carreira na área de tecnologia.
 
 ## Onde me encontrar: 
 
